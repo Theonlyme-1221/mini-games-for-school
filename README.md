@@ -36,4 +36,7 @@ Step to run the code:
     From Location\\1.jpg to C:\\User\\Downloads\\1.jpg  
    and so on till (....\\pp.jpg)
 
-7.
+7.End
+
+
+Run the program and Enjoy 
