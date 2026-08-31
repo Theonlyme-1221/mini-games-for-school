@@ -33,7 +33,7 @@ Step to run the code:
 
    For example in code paste
    
-    From Location\\1.jpg to C:\\User\\Downloads\\1.jpg  
+    From Location\\1.jpg  to  C:\\User\\Downloads\\1.jpg  
    and so on till (....\\pp.jpg)
 
 7.End
