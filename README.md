@@ -12,4 +12,13 @@ pip install pillow
 
 
 Step to run the code:
-1. 
+
+1.Run the pip install pillow in your Terminal(Admin)
+2.Download the image as given in jpg format alone
+3.From line 580 to 595 must the image location loacally 
+4.Right click the image 
+5.Go to Properties and copy the Location 
+  For example if Location is C:\User\Downloads 
+6.While pasting the Location add an extra `\` 
+  For example in code paste 
+    From Location_1.jpg to C:\\User\\Downloads
