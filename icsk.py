@@ -575,6 +575,8 @@ a11=(Label(text='c)Ares Chevrolet Corvette Stingray', fg="black",font=('courier'
     Label(text='Ford Mustang Mach 40', fg="black",font=('courier', 20, 'bold')),
     Label(text='1962 Chevrolet Corvette C1 RS Restomod', fg="black",font=('courier', 20, 'bold'))
 )
+
+#Must change these Location to your hard disk location
 my_pic=(Image.open('Location_1.jpg'),
     Image.open('Location_2.jpg'),
     Image.open('Location_3.jpg'),
