@@ -575,22 +575,22 @@ a11=(Label(text='c)Ares Chevrolet Corvette Stingray', fg="black",font=('courier'
     Label(text='Ford Mustang Mach 40', fg="black",font=('courier', 20, 'bold')),
     Label(text='1962 Chevrolet Corvette C1 RS Restomod', fg="black",font=('courier', 20, 'bold'))
 )
-my_pic=(Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\1.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\2.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\3.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\4.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\5.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\6.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\7.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\8.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\9.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\10.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\m4.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\m2.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\m3.jpg'),
-    Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\m1.jpg')
+my_pic=(Image.open('Location_1.jpg'),
+    Image.open('Location_2.jpg'),
+    Image.open('Location_3.jpg'),
+    Image.open('Location_4.jpg'),
+    Image.open('Location_5.jpg'),
+    Image.open('Location_6.jpg'),
+    Image.open('Location_7.jpg'),
+    Image.open('Location_8.jpg'),
+    Image.open('Location_9.jpg'),
+    Image.open('Location_10.jpg'),
+    Image.open('Location_m4.jpg'),
+    Image.open('Location_m2.jpg'),
+    Image.open('Location_m3.jpg'),
+    Image.open('Location_m1.jpg')
     )
-my_pic1=Image.open('C:\\Users\\yunus\\Desktop\\ynus\\solo\\pp.jpg')
+my_pic1=Image.open('Location_pp.jpg')
 
 pic=(my_pic[0].resize((392,220)),
     my_pic[1].resize((392,220)),
