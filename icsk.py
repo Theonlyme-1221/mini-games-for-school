@@ -577,22 +577,22 @@ a11=(Label(text='c)Ares Chevrolet Corvette Stingray', fg="black",font=('courier'
 )
 
 #Must change these Location to your hard disk location
-my_pic=(Image.open('Location_1.jpg'),
-    Image.open('Location_2.jpg'),
-    Image.open('Location_3.jpg'),
-    Image.open('Location_4.jpg'),
-    Image.open('Location_5.jpg'),
-    Image.open('Location_6.jpg'),
-    Image.open('Location_7.jpg'),
-    Image.open('Location_8.jpg'),
-    Image.open('Location_9.jpg'),
-    Image.open('Location_10.jpg'),
-    Image.open('Location_m4.jpg'),
-    Image.open('Location_m2.jpg'),
-    Image.open('Location_m3.jpg'),
-    Image.open('Location_m1.jpg')
+my_pic=(Image.open('Location\\1.jpg'),
+    Image.open('Location\\2.jpg'),
+    Image.open('Location\\3.jpg'),
+    Image.open('Location\\4.jpg'),
+    Image.open('Location\\5.jpg'),
+    Image.open('Location\\6.jpg'),
+    Image.open('Location\\7.jpg'),
+    Image.open('Location\\8.jpg'),
+    Image.open('Location\\9.jpg'),
+    Image.open('Location\\10.jpg'),
+    Image.open('Location\\m4.jpg'),
+    Image.open('Location\\m2.jpg'),
+    Image.open('Location\\m3.jpg'),
+    Image.open('Location\\m1.jpg')
     )
-my_pic1=Image.open('Location_pp.jpg')
+my_pic1=Image.open('Location\\pp.jpg')
 
 pic=(my_pic[0].resize((392,220)),
     my_pic[1].resize((392,220)),
