@@ -19,7 +19,7 @@ Step to run the code:
 
 2. Download the image as given in jpg format alone 
 
-   From word document uploaded  in mini_games.docx
+   From word document uploaded in "mini_games.docx"
 
 3. From line 580 to 595 must the image location loacally 
 
