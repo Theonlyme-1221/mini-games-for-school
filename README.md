@@ -17,7 +17,8 @@ Step to run the code:
 
 1. Run the pip install pillow in your Terminal(Admin)
 
-2. Download the image as given in jpg format alone
+2. Download the image as given in jpg format alone 
+   From word document uploaded 
 
 3. From line 580 to 595 must the image location loacally 
 
@@ -29,6 +30,9 @@ Step to run the code:
   
 6. While pasting the Location add an extra `\` 
 
-   For example in code paste 
+   For example in code paste
+   
     From Location\\1.jpg to C:\\User\\Downloads\\1.jpg  
    and so on till (....\\pp.jpg)
+
+7.
