@@ -7,4 +7,5 @@ which can guarantee 1st place in exhibition
 You add more games as you want 
 
 Run the below code in Terminal(Admin)
+
 pip install pillow
