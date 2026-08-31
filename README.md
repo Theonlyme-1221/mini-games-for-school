@@ -11,6 +11,8 @@ Run the below code in Terminal(Admin)
 pip install pillow
 
 
+
+
 Step to run the code:
 
 1.Run the pip install pillow in your Terminal(Admin)
@@ -29,5 +31,5 @@ Step to run the code:
 
   For example in code paste 
   
-    From Location_1.jpg to C:\\User\\Downloads
-    
+    From Location\\1.jpg to C:\\User\\Downloads\\1.jpg  
+  and so on till (....\\pp.jpg)
