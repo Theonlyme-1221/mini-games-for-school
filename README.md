@@ -9,3 +9,7 @@ You add more games as you want
 Run the below code in Terminal(Admin)
 
 pip install pillow
+
+
+Step to run the code:
+1. 
