@@ -1,0 +1,7 @@
+# mini-games-for-school
+A collection of  mini games developed as part of a school project 
+which can guarantee 1st place in exhibition
+1. MCQ of cars (10 question)
+2. Tic-Tac-Toe
+
+You add more games as you want 
